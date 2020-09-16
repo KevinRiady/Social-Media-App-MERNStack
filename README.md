@@ -21,6 +21,3 @@
 
 #### Home Page
 ![Home Page of Social Media App](../master/results/front-page.png)
-=======
-
->>>>>>> b85a6fba9eab9bfbe6d0e7eece852bda0f8171a1
