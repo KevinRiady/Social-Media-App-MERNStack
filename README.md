@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### A Simple Social Media Application
 
 #### Technologies:
